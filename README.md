@@ -1,4 +1,4 @@
-# Polikinik_BK
+# Polikita
 Konfigurasi projek masih menggunakan server lokal, dan hanya menggunakan PHP Native
 sehingga hanya diperlukan IDE, Server lokal (MySql) dengan Xampp, dan Browser
 
